@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css"></head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Ethan Chadwick</h1>
+            <p>a02291308@usu.edu</p>
+        </div>
+        <div class="resume">
+            <h2>Work Experience</h2>
+            <div class="job-entry">
+                <h3><span class="job-title">Data Admin</spa>
+                <p class="job-dates">August 2023 - Present</spa> 
+                <p class="job-description">Streamlined the inventory system.</div>
+            <div class="job-entry">
+		<p class="job-description">Streamlined the inventory system.</div>
+                <h3><span class="job-title">Intern</span>                
+		<p class="job-dates">April 2023 - August 2023</spa>
+        </div>
+    </div>
+    <div class="footer">
+        &copy; Ethan Chadwick 2023
+    </div>
+</body>
+</html>

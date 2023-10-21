@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+}
+
+.header h1 {
+    font-size: 36px;
+}
+
+.header p {
+    font-size: 18px;
+}
+
+.resume {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.resume h2 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.job-entry {
+    margin-top: 20px;
+}
+
+.job-entry h3 {
+    font-size: 20px;
+}
+
+.job-entry .job-title {
+    font-weight: bold;
+}
+
+.job-entry .job-dates {
+    color: #888;
+}
+
+.job-entry .job-description {
+    margin-top: 10px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+}
